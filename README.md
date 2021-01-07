@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/trindadematheus/whastapp-sticker-bot/master/assets/logo.png" width="128" height="128"/>
+<img src="https://github.com/zLinck/Boot_Will_WhatsApp/blob/main/assets/logo.png" width="128" height="128"/>
 
 # WhatsApp Sticker Bot
 
@@ -50,10 +50,8 @@ Agora toda imagem/video que você receber como mensagem privada o bot irá criar
 
 <br/>
 
-<p align="center">Feito com <b>♥</b> por <b>Matheus Trindade</b> diretamente de <b>Salvador-BA</b></p>
+<p align="center">Feito com <b>♥</b> por <b>William Civa</b> diretamente de <b>Nova Alvorada-RS</b></p>
 
 <p align="center">
-  <a href="https://www.twitch.tv/trindabsc">Twitter</a> •
-  <a href="https://www.linkedin.com/in/trndd/">Linkedin</a> •
-  <a href="https://trndd.netlify.com/">Site</a>
+
 </p>
