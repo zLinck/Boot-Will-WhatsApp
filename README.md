@@ -13,7 +13,7 @@
 **1- Clone o projeto:**
 
 ```bash
-> git clone https://github.com/trindadematheus/whatsapp-sticker-bot.git
+> git clone https://github.com/zLinck/Boot_Will_WhatsApp.git
 > cd whatsapp-sticker-bot
 ```
 
