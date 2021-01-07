@@ -5,10 +5,8 @@ export default async function CreateAnimatedStickerFromVideo(client: Client, mes
 
   await client.sendText(
     from,
-    `*${sender.pushname}*, estou criando a sua figurinha aguarde. 🤩
+    `*${sender.pushname}*, Obrigado por usar o Botzin_do_Civa 🤖... Estou processando sua Figutinha de video. 😻`
 
-_As figurinhas de video são feitas apartir dos primeiros 5 segundos de video._
-    `
   );
 
   const mediaData = await decryptMedia(message);
