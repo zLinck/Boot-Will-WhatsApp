@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": {
-    "name": "Matheus Trindade",
-    "email": "trindadematheus27@gmail.com"
+    "name": "William Civa",
+    "email": "williamciva23@gmail.com"
   },
   "scripts": {
     "build": "tsc",
