@@ -5,7 +5,8 @@ export default async function CreateAnimatedStickerFromVideo(client: Client, mes
 
   await client.sendText(
     from,
-    `*${sender.pushname}*, Obrigado por usar o Botzin_do_Civa 🤖... Estou processando sua Figutinha de video. 😻`
+    `*${sender.pushname}*, Obrigado por usar o Botzin_do_Civa 🤖... 
+    Estou processando sua Figurinha de video. 😻`
 
   );
 
