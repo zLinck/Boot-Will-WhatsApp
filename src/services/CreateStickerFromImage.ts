@@ -5,7 +5,7 @@ export default async function CreateStickerFromImage(client: Client, message: Me
 
   await client.sendText(
     from,
-    `*${sender.pushname}*, sua figurinha está sendo criada, aguarde! 🤩`
+    `*${sender.pushname}*, Obrigado por usar o Botzin_do_Civa 🤖... Estou processando sua Figutinha. 😻`
   );
 
   const mediaData = await decryptMedia(message);
